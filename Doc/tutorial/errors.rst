@@ -71,7 +71,7 @@ occurred, in the form of a stack traceback. In general it contains a stack
 traceback listing source lines; however, it will not display lines read from
 standard input.
 
-:ref:`bltin-exceptions` lists the built-in exceptions and their meanings.
+:ref:`_bltin-exceptions` lists the built-in exceptions and their meanings.
 
 
 .. _tut-handling:
@@ -341,7 +341,7 @@ idiom::
       File "<stdin>", line 4, in <module>
     RuntimeError
 
-For more information about chaining mechanics, see :ref:`bltin-exceptions`.
+For more information about chaining mechanics, see :ref:`_bltin-exceptions`.
 
 
 .. _tut-userexceptions:
